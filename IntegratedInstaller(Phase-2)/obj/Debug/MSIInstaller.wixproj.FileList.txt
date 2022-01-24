@@ -1,0 +1,7 @@
+obj\Debug\KardiaFile.wixobj
+obj\Debug\Product.wixobj
+C:\AliveCor\WinSdk\Kardia-Phase2\IntegratedInstaller(Phase-2)\bin\Debug\KardiaSampleApp.msi
+C:\AliveCor\WinSdk\Kardia-Phase2\IntegratedInstaller(Phase-2)\bin\Debug\KardiaSampleApp.wixpdb
+obj\Debug\MSIInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\MSIInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\MSIInstaller.wixproj.BindBuiltOutputsFileListnull.txt

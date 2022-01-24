@@ -1,0 +1,7 @@
+C:\AliveCor\WinSdk\Kardia-Phase2\IntegratedInstaller(Phase-2)\bin\Release\AliveCorKit.msi
+C:\AliveCor\WinSdk\Kardia-Phase2\IntegratedInstaller(Phase-2)\bin\Release\AliveCorKit.wixpdb
+obj\Release\KardiaFile.wixobj
+obj\Release\Product.wixobj
+obj\Release\MSIInstaller.wixproj.BindContentsFileListnull.txt
+obj\Release\MSIInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Release\MSIInstaller.wixproj.BindBuiltOutputsFileListnull.txt
